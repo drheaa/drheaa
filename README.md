@@ -1,5 +1,7 @@
 🚀Aspiring Data Scientist | Entrepreneur | Research Enthusiast
+
 📍Based in Australia | International Student 
+
 🎓 SP Jain School of Global Management, Class of 2026
 
 I'm Rhea — passionate about using data and technology to solve real-world problems with meaningful impact. My work sits at the intersection of data science, entrepreneurship, and research.
