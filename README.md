@@ -6,13 +6,13 @@ I'm Rhea — passionate about using data and technology to solve real-world prob
 
 Currently, I'm:
 
-Working on AI optimization, LSTM forecasting, and consumer behavior analytics
+- Working on AI optimization, LSTM forecasting, and consumer behavior analytics
 
-Developing a startup leveraging blockchain and AI for financial inclusion
+- Developing a startup leveraging blockchain and AI for financial inclusion
 
-Leading student initiatives in consulting, tech, and professional development
+- Leading student initiatives in consulting, tech, and professional development
 
-Conducting research in statistical modeling and multi-criteria decision-making
+- Conducting research in statistical modeling and multi-criteria decision-making
 
 I enjoy building projects that are not only technically sound but also socially relevant. Proficient in Python, SQL, R, and tools like Tableau and MySQL, I'm always looking to learn, collaborate, and grow.
 
