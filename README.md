@@ -1,4 +1,4 @@
-🚀Aspiring Data Scientist | Entrepreneur | Research Enthusiast
+🚀Aspiring Data Scientist | Aspiring Entrepreneur | AI Research Enthusiast
 
 📍Based in Australia | International Student 
 
